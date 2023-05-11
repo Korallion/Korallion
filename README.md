@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Korallion
-- 👀 I’m interested in app and web development!
-- 🌱 I’ve got a couple javascript, react, and web-dev projects under my belt. 
-- 🔍 Currently learning c++ and python!
+- 👋 Hi, I’m @Korallion, aka Karl Jakelski
+- 👀 I’m a self-taught web and mobile developer looking for interesting and challenging projects to work on!
+- 🌱 You can always guarantee that I'm working on a project all the time. I enjoy keeping my mind busy!
+- 🔍 Currently learning c++ and python, while still trying to master several javascript libraries, like React.js and Next.js!
 - 📫 How to reach me: karl.jakelski@gmail.com
 
 <!---
